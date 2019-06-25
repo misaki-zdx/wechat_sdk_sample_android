@@ -1,0 +1,4 @@
+#Tue Jun 25 14:44:57 CST 2019
+base.0=C\:\\Users\\Miskai\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
